@@ -105,14 +105,15 @@ Below is the learning curves for our candidate models.
 **Logistic Regression Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/LR_LCurve.PNG">
+  <img src="https://github.com/Tejas-vaghela/Fake_News_Detection-master/blob/main/images/LR_LCurve.PNG?raw=true" width="550" height="450">
 </p>
 
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
+  <img src="https://github.com/Tejas-vaghela/Fake_News_Detection-master/blob/main/images/RF_LCurve.png?raw=true" width="550" height="450">
 </p>
+
 
 ### Next steps
 As we can see that our best performing models had an f1 score in the range of 70's. This is due to less number of data that we have used for training purposes and simplicity of our models. For the future implementations, we could introduce some more feature selection methods such as POS tagging, word2vec and topic modeling. In addition, we could also increase the training data size. We will extend this project to implement these techniques in future to increase the accuracy and performance of our models.
